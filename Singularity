@@ -3,4 +3,4 @@ OSVersion: stable
 MirrorURL: http://ftp.us.debian.org/debian/
 
 %runscript
-    echo "Hello world! :D"
+    echo "Hello world 2! :D"
